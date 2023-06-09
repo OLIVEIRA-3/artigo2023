@@ -1,1 +1,1 @@
-
+Modelo preditivo (simples, que precise de poucas variáveis, facilmente coletadas e tratadas, e que não exija um alto nível de treinamento da equipe) para o setor de regulação de recursos hídricos, com foco no monitoramento dos volumes armazenados nos mananciais de reservação artificial, a fim de evitar a escassez hídrica e possibilitar respostas rápidas a eventos climáticos extremos ou outras alterações nas bacias hidrográficas
