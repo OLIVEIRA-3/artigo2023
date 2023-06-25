@@ -1,4 +1,4 @@
-Modelo preditivo (simples, que precise de poucas variáveis, facilmente coletadas e tratadas, e que não exija um alto nível de treinamento da equipe para o setor de regulação de recursos hídricos, com foco no monitoramento dos volumes armazenados nos mananciais de reservação artificial, a fim de evitar a escassez hídrica e possibilitar respostas rápidas a eventos climáticos extremos ou outras alterações nas bacias hidrográficas
+Uso de Machine Learning para Predição de Volumes em Mananciais: bases de dados e código em Python
 
 :small_blue_diamond: São testados, e validados com técnica de validação cruzada K-Fold, os modelos de:
 - Regressão Linear Múltipla
